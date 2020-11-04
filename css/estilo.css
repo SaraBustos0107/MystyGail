@@ -1,0 +1,42 @@
+html, body {
+height:100%;
+}
+
+header {
+display:block;
+background:#AD68F3;
+padding:5px 0px;
+text-aling: right;
+font-size:40px;
+font-family: Garamond;
+}
+
+section {
+width: 79%;
+background: #ccc;
+float: right;
+overflow: right;
+padding-bottom: 60px;
+padding-top: 30px;
+font-family: verdana;
+}
+aside {
+float: right;
+width: 19%;
+font-family: verdana;
+}
+
+footer {
+position: relative;
+margin-top: -50px;
+heigh: 40px;
+padding: 5px 0px;
+clear: both;
+background: #A44FFA;
+text-align: center;
+color: #fff;
+font-family: verdana;
+}
+figure {
+display: table; margin: 0 auto;
+}
